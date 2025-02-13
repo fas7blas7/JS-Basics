@@ -29,6 +29,12 @@ This repository contains my solutions to various JavaScript fundamental exercise
 | 21 | `21_PrintNumbersMtoN.js`              | Adding PrintNumbersMtoN task                |
 | 22 | `21_SumFirstAndLastELEMENTInArray.js` | Adding SumFirstAndLastElementInArray task   |
 | 23 | `22_ReverseArrayOfNumbers.js`         | Adding ReverseArrayOfNumbers task           |
+| 24 | `23_EvenAndOddSubstraction.js`        | Adding EvenAndOddSubstraction task          |
+| 25 | `24_Substring.js`                     | Adding Substring task                       |
+| 26 | `25_CensoredWords.js`                 | Adding CensoredWords task                   |
+| 27 | `26_StringCountOccurences.js`         | Adding StringCountOccurences task           |
+| 28 | `27_Grade.js`                         | Adding Grade task                           |
+| 29 | `28_MathPower.js`                     | Adding MathPower task                       |
 
 ## 🚀 How to Run
 
