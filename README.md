@@ -35,6 +35,11 @@ This repository contains my solutions to various JavaScript fundamental exercise
 | 27 | `26_StringCountOccurences.js`         | Adding StringCountOccurences task           |
 | 28 | `27_Grade.js`                         | Adding Grade task                           |
 | 29 | `28_MathPower.js`                     | Adding MathPower task                       |
+| 30 | `29_RepeatString.js`                  | Adding RepeatString task                    |
+| 31 | `30_Orders.js`                        | Adding Orders task                          |
+| 32 | `31_PersonInfoObject.js`              | Adding PersonInfoObject task                |
+| 33 | `32_CityObjectSingleParameter.js`     | Adding CityObjectSingleParameter task       |
+| 34 | `33_PhoneBook.js`                     | Adding PhoneBook task                       |
 
 ## 🚀 How to Run
 
