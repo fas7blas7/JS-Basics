@@ -40,6 +40,11 @@ This repository contains my solutions to various JavaScript fundamental exercise
 | 32 | `31_PersonInfoObject.js`              | Adding PersonInfoObject task                |
 | 33 | `32_CityObjectSingleParameter.js`     | Adding CityObjectSingleParameter task       |
 | 34 | `33_PhoneBook.js`                     | Adding PhoneBook task                       |
+| 35 | `34_ArrayRotation.js`                 | Adding ArrayRotation task                   |
+| 36 | `35_PrintEveryNthElement.js`          | Adding PrintEveryNthElement task            |
+| 37 | `36_ListOfNames.js`                   | Adding ListOfNames task                     |
+| 38 | `37_SortingNumbers.js`                | Adding SortingNumbers task                  |
+| 39 | `38_RevealWords.js`                   | Adding RevealWords task                     |
 
 ## 🚀 How to Run
 
