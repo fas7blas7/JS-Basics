@@ -45,6 +45,11 @@ This repository contains my solutions to various JavaScript fundamental exercise
 | 37 | `36_ListOfNames.js`                   | Adding ListOfNames task                     |
 | 38 | `37_SortingNumbers.js`                | Adding SortingNumbers task                  |
 | 39 | `38_RevealWords.js`                   | Adding RevealWords task                     |
+| 40 | `39_StringSubstring.js`               | Adding StringSubstring task                 |
+| 41 | `40_SmallestOfthreeNumbers.js`        | Adding SmallestOfThreeNumbers task          |
+| 42 | `41_AddAndSubstract.js`               | Adding AddAndSubstract task                 |
+| 43 | `42_OddAndEvenSum.js`                 | Adding OddAndEvenSum task                   |
+| 44 | `43_PasswordValidator.js`             | Adding PasswordValidator task               |
 
 ## 🚀 How to Run
 
