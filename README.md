@@ -50,6 +50,13 @@ This repository contains my solutions to various JavaScript fundamental exercise
 | 42 | `41_AddAndSubstract.js`               | Adding AddAndSubstract task                 |
 | 43 | `42_OddAndEvenSum.js`                 | Adding OddAndEvenSum task                   |
 | 44 | `43_PasswordValidator.js`             | Adding PasswordValidator task               |
+| 45 | `44_Employees.js`                     | Adding Employees task                       |
+| 46 | `45_Towns.js`                         | Adding Towns task                           |
+| 47 | `46_StoreProvision.js`                | Adding StoreProvision task                  |
+| 48 | `47_Movies.js`                        | Adding Movies task                          |
+| 49 | `48_Inventory.js`                     | Adding Movies task                          |
+| 50 | `49_OddOccurances.js`                 | Adding OddOccurances task                   |
+| 51 | `50_Piccolo.js`                       | Adding Piccolo task                         |
 
 ## 🚀 How to Run
 
